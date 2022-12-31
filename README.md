@@ -1,8 +1,12 @@
 # i3WM-luochen570
 洛尘的i3wm配置
+本人缩放调整是150%
+使用的话请自行调整
+本配置尚不完善 ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+yay -S alacritty i3wm neovim picom polybar rofi figlet lolcat pfetch 
 
 
-yay -S alacritty i3wm neovim picom polybar rofi
 
 
 效果图<img width="1280" alt="Screenshot_20221231_155245" src="https://user-images.githubusercontent.com/96155235/210131452-f814b088-832c-476e-97ce-8a9a81788a58.png">
